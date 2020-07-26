@@ -16,31 +16,10 @@ PHP 5.6 and later
 ## Installation & Usage
 ### Composer
 
-To install the bindings via [Composer](http://getcomposer.org/), add the following to `composer.json`:
+To install the bindings via [Composer](http://getcomposer.org/),
 
-```
-{
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/karixtech/karix-php.git"
-    }
-  ],
-  "require": {
-    "karixtech/karix-php": "2.0.0"
-  }
-}
-```
+Then run `composer require samuelbie/karix-php`
 
-Then run `composer install`
-
-### Manual Installation
-
-Download the files and include `autoload.php`:
-
-```php
-    require_once('/path/to/karix-php/vendor/autoload.php');
-```
 
 ## Tests
 
