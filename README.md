@@ -1,5 +1,5 @@
 # karix-php
-[![Build Status](https://travis-ci.org/karixtech/karix-php.svg?branch=v2)](https://travis-ci.org/karixtech/karix-php) [![Coverage Status](https://coveralls.io/repos/github/karixtech/karix-php/badge.svg?branch=v2)](https://coveralls.io/github/karixtech/karix-php?branch=v2)
+[![Build Status](https://travis-ci.org/karixtech/karix-php.svg?branch=v2)](https://travis-ci.org/karixtech/karix-php) [![Coverage Status](https://coveralls.io/repos/github/karixtech/karix-php/badge.svg?branch=v2)](https://coveralls.io/github/karixtech/karix-php?branch=master)
 
 Karix API lets you interact with the Karix platform using an omnichannel messaging API. It also allows you to query your account, set up webhooks and buy phone numbers.
 
@@ -19,7 +19,6 @@ PHP 5.6 and later
 To install the bindings via [Composer](http://getcomposer.org/),
 
 Then run `composer require samuelbie/karix-php`
-
 
 ## Tests
 
