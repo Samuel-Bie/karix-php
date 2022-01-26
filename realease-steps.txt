@@ -5,7 +5,7 @@
 	git commit -m "Release new package version"
 
 3 - Add Tag
-	git tag 2.3.0
+	git tag 2.3.1
 
 4 - Git push
 	git push --all
