@@ -1,6 +1,6 @@
 {
     "name": "samuelbie/karix-php",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "",
     "keywords": [
         "karix",
@@ -16,6 +16,10 @@
         {
             "name": "Team Karix",
             "homepage": "https://blog.karix.io/tag/engineering"
+        },
+        {
+            "name": "Samuel Bie",
+            "homepage": "https://samuel-bie.github.io"
         }
     ],
     "require": {
