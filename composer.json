@@ -1,6 +1,6 @@
 {
     "name": "samuelbie/karix-php",
-    "version": "2.4.0",
+    "version": "2.4.1",
     "description": "",
     "keywords": [
         "swagger",
@@ -38,12 +38,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Karix\\": "lib/"
+            "Swagger\\Client\\": "lib/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Karix\\": "test/"
+            "Swagger\\Client\\": "test/"
         }
     }
 }
