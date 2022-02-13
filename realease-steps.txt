@@ -5,11 +5,10 @@
 	git commit -m "Reset namespace to Swagger"
 
 3 - Add Tag
-	git tag 2.4.2
+	git tag 2.4.3
 
 4 - Git push
 	git push --all
 
 5 - Push the tag
 	git push --tags
-
