@@ -3,7 +3,6 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**request_uuid** | **string** | Unique request ID for debugging purposes | [optional] 
 **credits_charged** | [**BigDecimal**](BigDecimal.md) |  | [optional] 
 **available_credits** | [**BigDecimal**](BigDecimal.md) |  | [optional] 
 

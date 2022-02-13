@@ -3,8 +3,6 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**name** | **string** | Name of the account. Must be unique within the parent account. | [optional] 
-**status** | **string** | Status of your account. Possible values are:   - enabled: Account is ready to be used   - suspended: Account has been temporarily suspended   - disabled: Account has been permanently disabled and             cannot be revived. All resources allocated             to the subaccount like phonenumbers are also             deleted. | [optional] 
 **uid** | **string** | Alphanumeric user identification. Used as username for Basic Authentication | [optional] 
 **token** | **string** | Token password for this account. Used as password in Basic Authentication | [optional] 
 **is_parent** | **bool** | There is generally only one parent account in list. Rest are child subaccounts. Possible values:   - &#x60;true&#x60;: If the account is a parent account   - &#x60;false&#x60;: If the account is a subaccount of the parent account | [optional] 
